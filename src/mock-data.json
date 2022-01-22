@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "Name": "Jenny Chan",
+      "Usn": "3412jhv",
+      "Course": "EEE",
+      "Yop": "2019"
+    },
+    {
+      "id": 2,
+      "Name": "Jessica warren",
+      "Usn": "8787jgh",
+      "Course": "CSE",
+      "Yop": "2020"
+    },
+    {
+      "id": 3,
+      "Name": "Tony Frank",
+      "Usn": "7676789ghv",
+      "Course": "ECE",
+      "Yop":  "2021"
+    },
+    {
+      "id": 4,
+      "Name": "Jeremy Clark",
+      "Usn": "1234rft",
+      "Course": "ISE",
+      "Yop":"2018"
+    },
+    {
+      "id": 5,
+      "Name": "Raymond Edwards",
+      "Usn": "123edrf",
+      "Course": "TcE",
+      "Yop": "2019"
+    }
+  ]
